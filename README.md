@@ -1,68 +1,110 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# NON Selective Reporting
 
-## Available Scripts
+[![N|Solid](images/1.jpg)](https://startblock.online)
 
-In the project directory, you can run:
+<a href="http://34.71.99.96:3001/">Prototype of the NON Selective Reporting</a>
 
-### `yarn start`
+<a href="https://youtu.be/ZVp65g7hRYc">Video-presentation of the NON Selective Reporting</a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Structure
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<ol type="1" style="font-size: x-large;">
+  <li> <a href="https://github.com/timac11/uton-hack#inspiration">Inspiration</a>
+  <li> <a href="https://github.com/timac11/uton-hack#problem">Problem</a>
+  <li> <a href="https://github.com/timac11/uton-hack#solution">Solution</a>
+<ol type="a" style="font-size: large;">
+  <li> <a href="https://github.com/timac11/uton-hack#how-it-works?">How it works?</a>
+  <li> <a href="https://github.com/timac11/uton-hack#technical-solution">Technical Solution</a>
+  <li> <a href="https://github.com/timac11/uton-hack#why-it-is-the-best-way-to-guarantee-non-selective-reporting?">Why it is the best way to guarantee non-selective reporting?</a>
+  <li> <a href="https://github.com/timac11/uton-hack#why-hedera-hashgraph-blockchain?">Why Hedera Hashgraph Blockchain?</a>
+</ol>
+  <li> <a href="https://github.com/timac11/uton-hack#who-is-our-clients?">Who is our clients?</a>
+  <li> <a href="https://github.com/timac11/uton-hack#business-model">Business model</a>
+  <li> <a href="https://github.com/timac11/uton-hack#instructions">Instructions</a>
+  <li> <a href="https://github.com/timac11/uton-hack#finally">Finally</a>
+</ol>
 
-### `yarn test`
+# Inspiration
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![N|Solid](2.jpg)](https://startblock.online)
 
-### `yarn build`
+# Problem
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![N|Solid](3.jpg)](https://startblock.online)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+# Solution
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The product allows you to guarantee a big audience that your social polls or review are not selective reporting.
+1.Google Form to create form with an appropriate configuration
+2.Send the link to our application
+3.Timestamps each response in a blinded way on the Hedera Hashgraph blockchain platform with a goal to guarantee that all votes will be taken into account
 
-### `yarn eject`
+<a href="http://34.71.99.96:3001/">Prototype of the NON Selective Reporting</a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a href="https://youtu.be/ZVp65g7hRYc">Video-presentation of the NON Selective Reporting</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+[![N|Solid](4.jpg)](https://startblock.online)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# How it works?
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1.Sign up for APP& Creating a form.Confirm your information. Construct form for your poll using a wide range of Google Form instruments.
+2.Submission parameters & Payment.Leave a link to Google survey form, wait for validation of questions on the Hedera Hashgraph and pay for the service using Hashing Systems instruments.
+3.Research flow.You can share a link to a Google form with survey participants. Our service automatically hashes each answer and store it in an orderly manner on the hashgraph.
+4.Get reviewers on your research.Send the results of the responses to several reviewers and confirm that research results match the stored proofs.
+5.Proof of non-selective reporting.In your application’s dashboard, share evidence of non-selective reporting with anyone, which consists of survey statistics, a link to saved proof, and a list of reviewers who checked compliance
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Technical Solution
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![N|Solid](5.jpg)](https://startblock.online)
 
-### Code Splitting
+# Why it is the best way to guarantee non-selective reporting?
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+-Using blockchain to hash data and guarantee the immutability of information
+-Integration with Google Forms, without additional actions on the part of the survey participant
+-An easy way to guarantee non-selective reporting by providing a link to our website and checking with thу blockchain
+-A mechanism for finding independent reviewers to ensure the completeness and correctness of the stored data
 
-### Analyzing the Bundle Size
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Making a Progressive Web App
+# Why Hedera Hashgraph Blockchain?
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+1.Less cost of transactions. 
+Hedera: cost in one transaction~ 0,0001 $. Ethereum: cost in one transaction ~ 0,1$. 
+Hedera:  for reporting of  1000 participants <1$. Ethereum:  for reporting of  1000 participants -100 $. 
+2.Orderly transactions in the blockchain
 
-### Advanced Configuration
+# Who is our clients?
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+[![N|Solid](7.jpg)](https://startblock.online)
 
-### Deployment
+# Business model
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+[![N|Solid](8.jpg)](https://startblock.online)
 
-### `yarn build` fails to minify
+# Instructions 
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Finally
+
+**NON Selective Reporting** is a complete product to guarantee a big audience that your social polls or review are not selective reporting.
+
+<a href="http://34.71.99.96:3001/">Prototype of the NON Selective Reporting</a>
+
+<a href="https://youtu.be/ZVp65g7hRYc">Video-presentation of the NON Selective Reporting</a>
+
+The product allows you to guarantee a big audience that your social polls or review are not selective reporting.
+
+During this hackathon:
+
+- We have created a fully working web application to guarantee a big audience that your social polls or review are not selective reporting.
+- Use the Hedera Hashgraph Blockchain and Hashing System for fast and low-cost storage of the hash of information.
+- Our prototype are fully working and easy to use
+
+We want faster progress in scientific research and. avoid the problem of selective reporting!
+
+# Team
+
+We implemented all this within the application on the hackathon UTON Hack 2.0 with the active interaction of the whole team!
+
+[![N|Solid](9.jpg)](https://startblock.online)
