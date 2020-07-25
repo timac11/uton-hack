@@ -1,0 +1,4 @@
+FROM node:10.16.0-slim
+WORKDIR /dist/packages/auctioneer-node/
+EXPOSE 9001
+CMD ["yarn", "start:dev"]

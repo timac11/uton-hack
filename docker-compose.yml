@@ -1,0 +1,36 @@
+version: '3.7'
+services:
+
+  postgres:
+    container_name: postgres
+    image: "postgres"
+    env_file:
+      - database.env
+    volumes:
+      - database-data:/var/lib/postgresql/data/
+
+  backend:
+    container_name: backend
+    build:
+      context: .
+      dockerfile: ./Dockerfile-backend-dev
+    depends_on: 
+      - postgres
+    environment:
+      - PORT=9001
+      - LOG_LEVEL=debug
+      - PG=postgresql://postgres:postgres@postgres:5432/AuctioneerNode
+    volumes:
+      - ./:/dist
+    ports:
+      - 1338:9001
+
+  ui:
+    build:
+      context: .
+      dockerfile: ./Dockerfile-ui-dev
+    ports:
+      - 1337:80
+
+volumes:
+  database-data:
